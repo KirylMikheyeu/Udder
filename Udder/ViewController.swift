@@ -17,3 +17,6 @@ class ViewController: UIViewController {
 
 }
 
+func viewWillAppear(_ animated: Bool) {
+    //
+}
